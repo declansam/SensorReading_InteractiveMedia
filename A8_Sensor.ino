@@ -1,7 +1,7 @@
 
 /*
 
-      Samya Lamichhane 
+      Samyam Lamichhane 
       Sensor Circuit
       Interactive Media
       Nov 3, 2022
